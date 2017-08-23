@@ -1,0 +1,8 @@
+{
+  "name": "__YOUR_PACKAGE_NAME_HERE__",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "private": true
+}
