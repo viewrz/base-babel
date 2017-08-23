@@ -2,7 +2,6 @@
 
 npm i \
   babel-core \
-  babel-loader \
   babel-preset-env \
   babel-cli \
   eslint \
