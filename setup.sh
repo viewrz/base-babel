@@ -9,3 +9,4 @@ npm i \
   eslint-plugin-import \
 
 rm setup.sh
+rm -fr .git
