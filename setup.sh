@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+cd "$(dirname "$0")"
+
 npm i \
   babel-core \
   babel-preset-env \
@@ -10,3 +12,4 @@ npm i \
 
 rm setup.sh
 rm -fr .git
+echo '# __YOUR_SERVICE_NAME_HERE__' > README.md
